@@ -79,5 +79,8 @@
     'installable': True,
     'currency': 'usd',
     'price': 0,
-    'license': 'LGPL-3'
+    'license': 'LGPL-3',
+    'images': [
+        'static/description/icon.png',
+    ],
 }
