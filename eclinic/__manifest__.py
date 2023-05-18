@@ -36,7 +36,7 @@
     'website': "https://codesev.com/",
 
     'category': 'Health',
-    'version': '0.1',
+    'version': '0.2',
 
     # any module necessary for this one to work correctly
     'depends': ['base'],
@@ -79,5 +79,8 @@
     'installable': True,
     'currency': 'usd',
     'price': 0,
-    'license': 'LGPL-3'
+    'license': 'LGPL-3',
+    'images': [
+        'static/description/icon.png',
+    ],
 }
